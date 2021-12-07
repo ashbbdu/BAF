@@ -1,0 +1,12 @@
+/*========================
+	All css
+  ======================== */
+
+@import url("bootstrap.min.css");
+@import url("default.css");
+@import url("jquery-ui.min.css");
+@import url("nice-select.css");
+@import url("slick.css");
+@import url("style.css");
+@import url("intlTelInput.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
